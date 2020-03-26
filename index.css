@@ -1,6 +1,17 @@
 h1 {
 	border: 5px dashed black;
 	text-align: center}
+img{
+	width: 250px ;
+	height: 425px ;
+	border-style: solid ;
+	border-width: 2px ;
+	border-color: black ;
+	border-radius: 20%
+}
+p{
+	border: 1px dashed black;
+}
 body{
-	border-radius: 10% dashed black
+	  background-image: url('q.jpg')
 }
